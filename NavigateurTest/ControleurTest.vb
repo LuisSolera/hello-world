@@ -56,6 +56,7 @@ Imports NSubstitute
 
         'Assert
         Assert.AreEqual(attendue, obtenue)
+
     End Sub
 
 End Class
